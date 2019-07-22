@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28010.2046
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{159641D6-6404-4A2A-AE62-294DE0FE8301}") = "TacosSSIS", "TacosSSIS\TacosSSIS.dtproj", "{07A01D5D-1749-41D6-BB7D-10CC5606E277}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Development|Default = Development|Default
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{07A01D5D-1749-41D6-BB7D-10CC5606E277}.Development|Default.ActiveCfg = Development
+		{07A01D5D-1749-41D6-BB7D-10CC5606E277}.Development|Default.Build.0 = Development
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {8536675E-A891-40D1-B6CF-1459AAF2E439}
+	EndGlobalSection
+EndGlobal
